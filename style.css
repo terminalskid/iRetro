@@ -4,5 +4,6 @@ p {
 
 @font-face {
     font-family: Disco 2000;
-    url(display: 2k .ttf;)
+    src: url(d2k.ttf
+    );
 }
