@@ -1,9 +1,12 @@
 p {
-    font-family: Disco 2000;
+    font-family: Disco;
 }
 
 @font-face {
-    font-family: Disco 2000;
-    src: url(d2k.ttf
-    );
+    font-family: Disco;
+    src: url(d2k.ttf);
+}
+
+a {
+    font-family: Disco;
 }
