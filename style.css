@@ -11,6 +11,10 @@ a {
     font-family: Disco;
     align-items: center;
     font-weight: bold;
-    position: absolute;
 }
 
+.FRG {
+    font-family: Disco;
+    position: absolute;
+    color: blueviolet;
+}
