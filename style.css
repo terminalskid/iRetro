@@ -7,12 +7,6 @@ p {
     src: url(d2k.ttf);
 }
 
-a {
-    font-family: Disco;
-    align-items: center;
-    font-weight: bold;
-}
-
 .FRG {
     font-family: Disco;
     position: absolute;
